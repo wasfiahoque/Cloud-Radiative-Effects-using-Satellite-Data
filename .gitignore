@@ -1,12 +1,15 @@
+# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 .env
 .ipynb_checkpoints/
+
+# Mac
 .DS_Store
 
-# climate/satellite data
+# Satellite / climate data
 *.nc
 *.h5
 *.hdf
