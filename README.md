@@ -1,0 +1,3 @@
+For this analysis, we use data from the Clouds and the Earth’s Radiant Energy System (CERES) instruments aboard both the Aqua and Terra satellites, specifically the Energy Balancedand Filled (EBAF) Level 3b Top-of-Atmosphere (TOA) product. The EBAF dataset provides 1° ×1° global monthly mean LW and SW radiative fluxes under clear-sky and all-sky conditions. Theclear-sky TOA (SW and LW) fluxes provide radiative fluxes under clear sky conditions (cloud freeas identified by a cloud detection algorithm) while all-sky TOA (SW and LW) provide the radiativefluxes under both cloudy and clear skies
+
+CERES Top-of-Atmosphere radiative flux data were obtained from NASA Langley Research Center. The data can be downloaded from the CERES data portal: https://ceres.larc.nasa.gov/data/
